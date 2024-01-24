@@ -15,7 +15,7 @@
 ## Links
 We are deeply grateful to the contributors of the following papers and code.
 
-- [Nuclick](https://portal.gdc.cancer.gov/].
+- [Nuclick](https://github.com/navidstuv/NuClick)
 
 
 <!-- give a introduction of your project -->
