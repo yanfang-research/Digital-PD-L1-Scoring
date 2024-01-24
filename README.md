@@ -1,4 +1,6 @@
-# [👩‍💻Code] Artificial Intelligence-based Assessment of PD-L1 Expression in Diffuse Large B Cell Lymphoma
+# Artificial Intelligence-based Assessment of PD-L1 Expression in Diffuse Large B Cell Lymphoma
+
+This repository provides the official implementation of paper titled "Artificial Intelligence-based Assessment of PD-L1 Expression in Diffuse Large B Cell Lymphoma".
 
 <!-- Select some of the point info, feel free to delete -->
 🧙 Updated on 2024.01.24. Paper will be coming soon!
