@@ -10,7 +10,7 @@
 ---
 
 <!-- Select some of the point info, feel free to delete -->
-🧙 Updated on 2023.12.15. Paper will be coming soon!
+🧙 Updated on 2024.01.24. Paper will be coming soon!
 
 ## Links
 We are deeply grateful to the contributors of the following papers and code.
