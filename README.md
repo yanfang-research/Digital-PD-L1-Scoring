@@ -4,7 +4,7 @@
 
 <!-- Insert the project banner here -->
 <div align="center">
-    <a href="https://"><img width="600px" height="auto" src="https://github.com/yanfang-research/Digital-PD-L1-Scoring/blob/main/WSI_TPS.jpg"></a>
+    <a href="https://"><img width="800px" height="auto" src="https://github.com/yanfang-research/Digital-PD-L1-Scoring/blob/main/WSI_TPS.jpg"></a>
 </div>
 
 ---
