@@ -9,7 +9,7 @@
 
 ---
 
-## Links
+## 👩‍💻 Links
 We are deeply grateful to the contributors of the following papers and softwares.
 
 - [Vision Transformer (ViT)](https://github.com/google-research/vision_transformer)
@@ -20,7 +20,7 @@ We are deeply grateful to the contributors of the following papers and softwares
 
 <!-- give a introduction of your project -->
 
-## Get Started
+## 🙋‍♀️ Get Started
 
 **Main Requirements**  
 > Python==3.9
