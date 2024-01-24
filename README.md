@@ -37,7 +37,7 @@ We are deeply grateful to the contributors of the following papers and softwares
 > opencv-python==4.6
 > 
 
-**Training**
+**Pipeline**
 
 The code is modified from [MoCo v3](https://github.com/facebookresearch/moco-v3).
 
