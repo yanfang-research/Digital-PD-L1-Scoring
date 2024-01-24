@@ -37,23 +37,10 @@ We are deeply grateful to the contributors of the following papers and softwares
 > 
 
 **Pipeline**
-
-The code is modified from [MoCo v3](https://github.com/facebookresearch/moco-v3).
-
-For basic MoCo v3 training, 
-```python
-python main_moco.py \
-  --tcga ./used_TCGA.csv \
-  -a vit_base -b 2048 --workers 128 \
-  --optimizer=adamw --lr=1.5e-4 --weight-decay=.1 \
-  --epochs=100 --warmup-epochs=40 \
-  --stop-grad-conv1 --moco-m-cos --moco-t=.2 \
-  --multiprocessing-distributed --world-size 1 --rank 0 \
-  --dist-backend nccl \
-  --dist-url 'tcp://localhost:10001' \
-  [your dataset folders]
-```
-
+- Step 1: ROI Segmentation
+- Step 2: Cell Detection
+- Step 3: Cell Segmentation
+- Step 4: TPS Analysis
 
 ## 🛡️ License
 
