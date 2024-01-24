@@ -1,6 +1,7 @@
 # [👩‍💻Code] Artificial Intelligence-based Assessment of PD-L1 Expression in Diffuse Large B Cell Lymphoma
-🙋‍♀️🌈🍿
 
+<!-- Select some of the point info, feel free to delete -->
+🧙 Updated on 2024.01.24. Paper will be coming soon!
 
 <!-- Insert the project banner here -->
 <div align="center">
@@ -9,50 +10,32 @@
 
 ---
 
-<!-- Select some of the point info, feel free to delete -->
-🧙 Updated on 2024.01.24. Paper will be coming soon!
-
 ## Links
-We are deeply grateful to the contributors of the following papers and code.
+We are deeply grateful to the contributors of the following papers and softwares.
 
 - [Vision Transformer (ViT)](https://github.com/google-research/vision_transformer)
 - [Nuclick](https://github.com/navidstuv/NuClick)
 - [AUXCNN](https://github.com/shenghh2015/cell-counting)
+- [ASAP](https://computationalpathologygroup.github.io/ASAP/)
+- [LabelMe](https://github.com/labelmeai/labelme)
 
 <!-- give a introduction of your project -->
-## Details
-
-Our model is based on a new self-supervised learning (SSL) framework. This framework aims at exploiting characteristics of histopathological images by introducing a pretext token and following task raiser during the training. The pretext token is only a small piece of image, but contains special knowledge. 
-
-In task 1, cross-scale positioning, the pretext token is a small patch contained in a large region. The special relation inspires us to position this patch in the region and use the features of the region to generate the feature of the patch in a global view. The patch is also sent to the encoder solely to obtain a local-view feature. The two features are pulled together to strengthen the H&E model. 
-
-In task 2, cross-stain transferring, the pretext token is a small patch cropped from an image of one stain (H&E). The main input is the image of the other stain (IHC). These two images are roughly registered, so it is possible to style transfer one of them (H&E) to mimic the features of the other (IHC). The pseudo and real features are pulled together to obtain an IHC model on the basis of existing H&E model.
-
-<!-- Insert a pipeline of your algorithm here if got one -->
-<div align="center">
-    <a href="https://"><img width="1000px" height="auto" src="https://github.com/openmedlab/PathoDuet/blob/main/overall.png"></a>
-</div>
-
-## Dataset Links
-
-- [The Cancer Genome Atlas (TCGA)](https://portal.gdc.cancer.gov/) for SSL.
-- [NCT-CRC-HE](https://zenodo.org/record/1214456#.YVrmANpBwRk), also known as the Kather datasets, for patch classification.
-- [Camelyon 16](https://camelyon16.grand-challenge.org/) for weakly-supervised WSI classification.
-- [HyReCo](https://ieee-dataport.org/open-access/hyreco-hybrid-re-stained-and-consecutive-histological-serial-sections) for training in task 2.
-- [BCI Dataset](https://bci.grand-challenge.org/) for training in task 2.
 
 ## Get Started
 
 **Main Requirements**  
-> torch==1.12.1
+> Python==3.9
 > 
-> torchvision==0.13.1
+> torch==1.8
 > 
-> timm==0.6.7
+> Openslide==3.4
+>
+> Numpy==1.16
+>
+> Pandas==0.25
+>
+> opencv-python==4.6
 > 
-> tensorboard
-> 
-> pandas
 
 **Installation**
 ```bash
