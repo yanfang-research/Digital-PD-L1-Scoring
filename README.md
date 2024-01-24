@@ -15,7 +15,9 @@
 ## Links
 We are deeply grateful to the contributors of the following papers and code.
 
+- [Vision Transformer (ViT)](https://github.com/google-research/vision_transformer)
 - [Nuclick](https://github.com/navidstuv/NuClick)
+- [AUXCNN](https://github.com/shenghh2015/cell-counting)
 
 
 <!-- give a introduction of your project -->
