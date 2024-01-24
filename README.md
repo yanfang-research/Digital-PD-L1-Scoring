@@ -44,7 +44,7 @@ We are deeply grateful to the contributors of the following papers and softwares
 
 ## 🛡️ License
 
-This project is under the CC-BY-NC 4.0 license. See [LICENSE](LICENSE) for details.
+This project is under the MIT license. See [LICENSE](LICENSE) for details.
 
 ## 🙏 Acknowledgement
 
