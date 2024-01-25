@@ -33,7 +33,12 @@ This repository provides the official implementation of paper titled "Artificial
 - Step 3: Cell Segmentation
 - Step 4: TPS Analysis
 
-## Links
+## 🛡️ License
+
+This project is under the MIT license. See [LICENSE](LICENSE) for details.
+
+## 🙏 Acknowledgement
+
 We are deeply grateful to the contributors of the following papers and softwares.
 
 - [Vision Transformer (ViT)](https://github.com/google-research/vision_transformer)
@@ -41,15 +46,6 @@ We are deeply grateful to the contributors of the following papers and softwares
 - [AUXCNN](https://github.com/shenghh2015/cell-counting)
 - [ASAP](https://computationalpathologygroup.github.io/ASAP/)
 - [LabelMe](https://github.com/labelmeai/labelme)
-
-## 🛡️ License
-
-This project is under the MIT license. See [LICENSE](LICENSE) for details.
-
-## 🙏 Acknowledgement
-
-- Shanghai AI Laboratory.
-- Shanghai Ruijin Hospital.
 
 ## 📝 Citation
 
