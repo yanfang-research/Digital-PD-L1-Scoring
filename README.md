@@ -24,7 +24,9 @@ We are deeply grateful to the contributors of the following papers and softwares
 
 **Main Requirements**  
 > Python==3.9
+> 
 > torch==1.8
+> 
 > Openslide==3.4
 >
 > Numpy==1.16
