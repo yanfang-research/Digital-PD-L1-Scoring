@@ -9,7 +9,7 @@ This repository provides the official implementation of paper titled "Artificial
 
 ---
 
-## 👩‍💻 Links
+## Links
 We are deeply grateful to the contributors of the following papers and softwares.
 
 - [Vision Transformer (ViT)](https://github.com/google-research/vision_transformer)
