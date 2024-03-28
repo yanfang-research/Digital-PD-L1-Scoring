@@ -1,10 +1,8 @@
 # Digital PD-L1 Scoring in DLBCL
 
-## Artificial Intelligence-based Assessment of PD-L1 Expression in Diffuse Large B Cell Lymphoma
+This repository provides the official implementation of paper titled "Artificial Intelligence-based Assessment of PD-L1 Expression in Diffuse Large B Cell Lymphoma" published in npj Precision Oncology.
 
 [Journal Link](https://www.nature.com/articles/s41698-024-00577-y#citeas) | [Supplementary Information](https://static-content.springer.com/esm/art%3A10.1038%2Fs41698-024-00577-y/MediaObjects/41698_2024_577_MOESM2_ESM.pdf)
-
-This repository provides the official implementation of paper titled "Artificial Intelligence-based Assessment of PD-L1 Expression in Diffuse Large B Cell Lymphoma" published in npj Precision Oncology.
 
 **Abstract:** Diffuse large B cell lymphoma (DLBCL) is an aggressive blood cancer known for its rapid progression and high incidence. The growing use of immunohistochemistry (IHC) has significantly contributed to the detailed cell characterization, thereby playing a crucial role in guiding treatment strategies for DLBCL. In this study, we developed an AI-based image analysis approach for assessing PD-L1 expression in DLBCL patients. PD-L1 expression represents as a major biomarker for screening patients who can benefit from targeted immunotherapy interventions. In particular, we performed large-scale cell annotations in IHC slides, encompassing over 5101 tissue regions and 146,439 live cells. Extensive experiments in primary and validation cohorts demonstrated the defined quantitative rule helped overcome the difficulty of identifying specific cell types. In assessing data obtained from fine needle biopsies, experiments revealed that there was a higher level of agreement in the quantitative results between Artificial Intelligence (AI) algorithms and pathologists, as well as among pathologists themselves, in comparison to the data obtained from surgical specimens. We highlight that the AI-enabled analytics enhance the objectivity and interpretability of PD-L1 quantification to improve the targeted immunotherapy development in DLBCL patients.
 
@@ -58,6 +56,8 @@ We are deeply grateful to the contributors of the following papers and softwares
 If you find our work useful in your research or if you use parts of this code please consider citing our [paper](https://www.nature.com/articles/s41698-024-00577-y#citeas):
 
 Yan, F., Da, Q., Yi, H. et al. Artificial intelligence-based assessment of PD-L1 expression in diffuse large B cell lymphoma. npj Precis. Onc. 8, 76 (2024). https://doi.org/10.1038/s41698-024-00577-y
+        
+        
         
         
         
